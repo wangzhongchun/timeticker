@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">Timeticker</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-
+    <string name="action_reset">Reset</string>
+    <string name="StartStop">Start/Stop</string>
+    <string name="GoalHome">Tor (H)</string>
+    <string name="GoalGuest">Tor (G)</string>
 </resources>
